@@ -18,7 +18,8 @@
         <li>The First Face on the $1 Bill Was Not George Washington</li>
       </ol>
       <p>You can find all these facts (and more) in this <a href="https://bestlifeonline.com/historical-facts/?nab=0&utm_referrer=https%3A%2F%2Fwww.google.com%2F">article</a> by Alex Daniel.</p>
-
+<a href="https://octaviustheking.github.io/The-Smartypants-co.-Home-Website/">Our Home Website!</a> 
+        <h4>Created By octaviusaszeto@gmail.com and thamankotla@gmail.com</h4>
 
     </body>
 </html>
