@@ -28,7 +28,7 @@
         <li>People in Athens could vote to ostracize someone, or ban someone from the city-state for 10 years (At least 6,000 have to vote "yes, OSTRACIZE _____!" in order for someone to be ostracized.)</li>
         <li>The Spartans had a secret police that prevented slave uprisings, and...it was all composed of youths. They killed slaves that looked strong or fit. With daggers.This kept slaves in a constant state of terror.</li>
       </ol>
-      <p>You can find all these facts (and more) in this <a href="https://bestlifeonline.com/historical-facts/?nab=0&utm_referrer=https%3A%2F%2Fwww.google.com%2F">article</a> by Alex Daniel.</p>
+      <p>You can find all these facts (and more) in a book in the History section of <a href="https://octaviustheking.github.io/Smartypants-Books/">Smartypants Books</a></p>
 <a href="https://octaviustheking.github.io/The-Smartypants-co.-Home-Website/">Our Home Website!</a> 
         <h4>Created By octaviusaszeto@gmail.com and thamankotla@gmail.com</h4>
 
